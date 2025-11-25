@@ -1,0 +1,9 @@
+{
+  "note": "Example saved state for the Invocation Science\u00ae Attractor Identity & Drift Instrument.",
+  "version": "v2",
+  "params": {
+    "mode": "invoke",
+    "particleCount": 6800
+  },
+  "anchors": []
+}
